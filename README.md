@@ -16,7 +16,7 @@ All you need to set this up, is to follow through this guide.
      <img src="https://i.imgur.com/WRxfXmg.png">
    </p>
 
-2. Go to [Actions tab](../../actions) and click on the big green button that says "I understand my workflows, go ahead and run them"
+2. Go to [Actions tab](../../actions) and click on the big green button that says "I understand my workflows, go ahead and run them" (You now also need to go to the workflow and specifically enable the scheduled workflow.)
 
    <p align="center">
      <img src="https://i.imgur.com/gAsnfRv.png">
